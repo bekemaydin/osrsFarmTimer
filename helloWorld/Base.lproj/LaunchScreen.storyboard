@@ -33,7 +33,7 @@
                                 <rect key="frame" x="152.5" y="535" width="109" height="30"/>
                                 <state key="normal" title="Planted Flowers"/>
                             </button>
-                            <progressView opaque="NO" contentMode="scaleToFill" verticalHuggingPriority="750" ambiguous="YES" progressViewStyle="bar" progress="0.5" translatesAutoresizingMaskIntoConstraints="NO" id="n26-UB-6dU">
+                            <progressView opaque="NO" contentMode="scaleToFill" verticalHuggingPriority="750" ambiguous="YES" progressViewStyle="bar" progress="0.40000000000000002" translatesAutoresizingMaskIntoConstraints="NO" id="n26-UB-6dU">
                                 <rect key="frame" x="132" y="403.5" width="150" height="2.5"/>
                             </progressView>
                             <progressView opaque="NO" contentMode="scaleToFill" verticalHuggingPriority="750" ambiguous="YES" progress="0.5" translatesAutoresizingMaskIntoConstraints="NO" id="g4m-Ju-jYf">
